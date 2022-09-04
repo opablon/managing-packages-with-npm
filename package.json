@@ -4,8 +4,10 @@
 	"description": "FCC npm project",
 	"keywords": ["freecodecamp", "fcc", "npm"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "~1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
