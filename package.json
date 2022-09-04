@@ -1,6 +1,7 @@
 {
 	"author": "opablon",
 	"name": "fcc-learn-npm-package-json",
+	"description": "FCC npm project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
